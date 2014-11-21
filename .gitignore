@@ -9,6 +9,10 @@
 
 .DS_Store
 
+# Netbeans
+
+nb-configuration.xml
+
 # Maven
 
 log/
